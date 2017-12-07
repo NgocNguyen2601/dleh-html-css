@@ -1,0 +1,24 @@
+
+@media (min-width: 1200px){
+	.container {
+		width: 1200px;
+	}
+}
+
+#page_style {
+	@media (min-width:1170px) {
+		padding: 50px 50px 0px 50px;
+	}
+}
+
+.page_style2 {
+	@media (min-width:1170px) {
+		padding: 0px 50px 0px 50px;
+	}
+}
+#page_style2 {
+	@media (min-width:1170px) {
+		padding: 0px 50px 0px 50px;
+	}
+}
+
